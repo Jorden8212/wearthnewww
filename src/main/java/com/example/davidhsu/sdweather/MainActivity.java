@@ -130,6 +130,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
                 .setTransitionStyle(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
                 .commit();
     }
+    //123
 
     // What good method is to access resideMenu？
     public ResideMenu getResideMenu(){
